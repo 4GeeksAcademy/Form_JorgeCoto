@@ -1,0 +1,19 @@
+form{
+    width: 1200px; 
+    height: auto;
+    margin: 50px auto;
+    padding: 1rem;
+}
+.row{
+    padding-top: 1rem;
+}
+.inp_card{
+    width: 450px;
+}
+.inp_name{
+    width: 550px;
+}
+.inp_state{
+    width: 250px;
+    height: 30px;
+}
