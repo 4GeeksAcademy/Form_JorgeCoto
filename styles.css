@@ -4,16 +4,27 @@ form{
     margin: 50px auto;
     padding: 1rem;
 }
+ textarea, input{
+    border-color: rgb(224, 219, 219);
+    border-width: 2px;
+    border-style:double;
+}
 .row{
     padding-top: 1rem;
 }
 .inp_card{
     width: 450px;
 }
-.inp_name{
+textarea, .inp_name{
     width: 550px;
 }
 .inp_state{
+    border-color: rgb(224, 219, 219);
+    border-width: 2px;
+    border-style:double;
     width: 250px;
     height: 30px;
+}
+.inp_postal, .inp_amount{
+    width: 250px;
 }
